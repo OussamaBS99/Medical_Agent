@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+
+# Embeddings + RAG
+faiss-cpu
+sentence-transformers
+
+# local LLM model
+transformers 
+accelerate 
+safetensors
+langchain_huggingface
+groq
+# Hugging Face client
+huggingface-hub
+
+# App
+fastapi
+uvicorn
+gradio
+streamlit
+markdown
